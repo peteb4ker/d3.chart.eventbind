@@ -1,0 +1,25 @@
+{
+  "name": "d3.chart.externalTrigger",
+  "version": "0.1.0",
+  "authors": [
+    "Pete Baker <peteb4ker@gmail.com>"
+  ],
+  "description": "Binds an external element click handler to a chart event",
+  "main": "d3.chart.externalTrigger.js",
+  "keywords": [
+    "d3.chart",
+    "chart",
+    "event"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3.chart": "~0.2.0"
+  }
+}
